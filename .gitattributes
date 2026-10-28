@@ -1,0 +1,23 @@
+# Stable cross-platform text normalization for the shared Obsidian vault.
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.canvas text eol=lf
+*.base text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.py text eol=lf
+*.jsonl text eol=lf
+
+# Vault attachments and other binary source materials.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
+*.zip binary
+*.docx binary
+*.pptx binary
+*.xlsx binary

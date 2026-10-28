@@ -1,0 +1,247 @@
+{
+  "source_repository": "GoldenWitchs/postgraduate-vault-backup",
+  "source_commit": "3db4021005e7fa35df24964ba464e3eb0261bda4",
+  "source_tree": "2c8ffdb2e0948853de036f62554a46b816a037d2",
+  "export_date": "2026-10-27",
+  "source": "GitHub remote tree and matching committed Git objects; working tree excluded",
+  "original_files": [
+    {
+      "path": ".agents/skills/KEPANO-LICENSE.txt",
+      "source_blob": "33d692ee84f4464f575f2d1e927f19cf1c8ccc57",
+      "sha256": "64c64d48361edfe8610016441bf593256ea9b67f133b00f47c55aa29ee878567"
+    },
+    {
+      "path": ".agents/skills/foundationscv-deep-explanation/SKILL.md",
+      "source_blob": "e1df6b5e1c1fddcd29b3ee9a1e23695cb8fa438c",
+      "sha256": "77885277a89658fcc7636bc52c03d8828e0bcc54317e4ddb4084caade71010eb"
+    },
+    {
+      "path": ".agents/skills/json-canvas/SKILL.md",
+      "source_blob": "8fb2c9de2bbba52b53ca243fbfdab650ee61711c",
+      "sha256": "97d1ae0728955c4203922753d5656890e5e4dd371b8306ea11884f9b510f1b85"
+    },
+    {
+      "path": ".agents/skills/json-canvas/references/EXAMPLES.md",
+      "source_blob": "c94f99641d9d20f36dbb66e1e686432bb790cb00",
+      "sha256": "f5ce15a4b74643122396265e8c37c828874a4005794de2aee7030662968768eb"
+    },
+    {
+      "path": ".agents/skills/obsidian-bases/SKILL.md",
+      "source_blob": "e857041265fb8ac9f6f7c6606f2dbc762c45a91d",
+      "sha256": "c0037f20926c7d8591cdd040365e4c0e4c0c4146386a506f28f241faee9a27d9"
+    },
+    {
+      "path": ".agents/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+      "source_blob": "047888deca657c2da5a56163b7156b9a423642cd",
+      "sha256": "208fd63aead9bca1975626fea52605e6ab9434dc0529d923feb36b18b8877d3b"
+    },
+    {
+      "path": ".agents/skills/obsidian-markdown/SKILL.md",
+      "source_blob": "bca51a429c020a4cb6740a917517116e66d428b1",
+      "sha256": "7ad72e1f0a9081ed325e76b6402ad5de50a00e63e2341fd403a92f147234a007"
+    },
+    {
+      "path": ".agents/skills/obsidian-markdown/references/CALLOUTS.md",
+      "source_blob": "c086824c64156d17731c94a7029d3496dadbaa04",
+      "sha256": "9912ec2e3f8711f65b8ceb82cc19cbffc5e6f8ccf2ab627e18926c522c383d8b"
+    },
+    {
+      "path": ".agents/skills/obsidian-markdown/references/EMBEDS.md",
+      "source_blob": "668851abe0f056493e162f0a866762cced15c991",
+      "sha256": "63b6205507e28fb58cf200bc348a2b139e50ae739743e2e6316732148973cb7a"
+    },
+    {
+      "path": ".agents/skills/obsidian-markdown/references/PROPERTIES.md",
+      "source_blob": "e46a63abadd7c18224a79c2c9ea902bfb3e88bd6",
+      "sha256": "392953b5838c3ab3df135b5a914f100ae7b95e4501b6a2e5c8dc63da3ac7558b"
+    },
+    {
+      "path": ".agents/skills/research-vault-harness/SKILL.md",
+      "source_blob": "05b9dd0280e5309f6f4087d0d7fccd51444a1a2e",
+      "sha256": "d25c10f17871aaf20949f0ab6b17c0bdcddce6c08c18d782f34955af05899e46"
+    },
+    {
+      "path": ".agents/skills/research-vault-harness/agents/openai.yaml",
+      "source_blob": "3f67863a680799540d43c4eda1c9f1069351771b",
+      "sha256": "37c6026a63666abf2c77e41db60220a7bca6a4a077eb5055b88001a521f4c4eb"
+    },
+    {
+      "path": ".agents/skills/research-vault-harness/scripts/validate_harness.py",
+      "source_blob": "d449aa9d35d28118ed28038092392db7d1727ad7",
+      "sha256": "b1bbd7a9bff4b730ba498c8d0510fc44071350d75773d200911e3d618c7169bf"
+    },
+    {
+      "path": ".agents/skills/research-vault-harness/tests/test_validate_harness.py",
+      "source_blob": "e25fd6e1555f168faf939d68584106b7743b2482",
+      "sha256": "ae4b60303093041a7b6165d51845a2c05bba0d6fcde9f6c60c31a1d693843eda"
+    },
+    {
+      "path": ".gitattributes",
+      "source_blob": "d34e935e38104561ca5f5d74b2416526b9216982",
+      "sha256": "a80c5541bbe6e907b017c463f98d4a5476f058d0f14badb122e86d8be143d41b"
+    },
+    {
+      "path": ".obsidian/app.json",
+      "source_blob": "070debbf517242f00b1926aebc329f02420d25e9",
+      "sha256": "a184ef7f1cfe59502cf7d1c8c6b520fe3cf50a389c50a297f85dad370d4adc8e"
+    },
+    {
+      "path": ".obsidian/appearance.json",
+      "source_blob": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": ".obsidian/core-plugins.json",
+      "source_blob": "639b90da7172bebbc1a65e30ed0a1c611b5b26dc",
+      "sha256": "763cf20a921fd9955735b278006820b90b207b2fc04d9e79ca648279c7c14276"
+    },
+    {
+      "path": ".obsidian/page-preview.json",
+      "source_blob": "cd434618d2855bae71914ec200fb4497c935a88d",
+      "sha256": "1e2c3a18829f969027dce015ef9456b355d5fd0000748c01312ad9497be80d93"
+    },
+    {
+      "path": ".obsidian/templates.json",
+      "source_blob": "b9bb9fec94b3c0c97ca0cbf25b5ee01023bea687",
+      "sha256": "b463b34c013f99e08b298507d526c5e035e21568d319ed71d1315bbd1b693c8d"
+    },
+    {
+      "path": "00-Inbox/收件箱.md",
+      "source_blob": "1b4aa57e4c474d0608ffcd7aef094a015fc0fa6c",
+      "sha256": "5101029bed179b06855c088b996c76093deef012807afce2099db344b19e4f39"
+    },
+    {
+      "path": "10-Projects/项目导航.md",
+      "source_blob": "6655dddf6cf84c11e6f3e43197e31e3eeda87dc4",
+      "sha256": "88a15509519c25960ee7697a4c0a62eddcfbb3bfa9c9ed68abbc73734425e6c7"
+    },
+    {
+      "path": "20-Areas/领域导航.md",
+      "source_blob": "a014b7fd0bd8b19b78102f7d08d7089745cbbe80",
+      "sha256": "628d3a4484dbdab5613496689016818052b16afaf05b904755e4256b2e8e7bc5"
+    },
+    {
+      "path": "30-Knowledge/知识导航.md",
+      "source_blob": "00397bbac412b2ffdd2bb46cac9eefb40777ee15",
+      "sha256": "32b5f728304211f2bee9aa72188eb92db82fc48905a430e3f670bd71bbed5f1c"
+    },
+    {
+      "path": "40-Sources/来源导航.md",
+      "source_blob": "5987ace083212e81f4a71781f98ab37f36c8b710",
+      "sha256": "2d6d13851ff386db11429cc75ed18655f0660d90e1ba1c91a81622f1844df8d8"
+    },
+    {
+      "path": "90-Archive/归档说明.md",
+      "source_blob": "76f682e7a22912120027a863085a1fb331bfc6cd",
+      "sha256": "c4b5b155752e9dfaaf2115cb3e3b8440b13b237b8d530eb53ef32c609b530206"
+    },
+    {
+      "path": "AGENTS.md",
+      "source_blob": "2914afc78eeb2dfd22db5101baf93a6c91ea52b1",
+      "sha256": "298c01119293bf5133ce6d02e27cb6f1b823b9be35745a69424f57cb137bfdd7"
+    },
+    {
+      "path": "_system/AI-Harness/INDEX.md",
+      "source_blob": "7aa99ac96f9ac40822f96d1b9f6c6a12fe0cbe5e",
+      "sha256": "74cffeda2d405b54563eb69f5c3f4698559974b2d7dd9dfe9c7023aabc851a13"
+    },
+    {
+      "path": "_system/AI-Harness/quality/检查清单.md",
+      "source_blob": "29b2f5aa240f000541fcbb8a5e50432e5d034988",
+      "sha256": "823769b135334aac9255d3f8e5e3edcd5f8e1845385203605925fb827cbbfce5"
+    },
+    {
+      "path": "_system/AI-Harness/契约与验证规则.md",
+      "source_blob": "bb1e13f57e38b34140612efdc77f59268f1004bb",
+      "sha256": "1921470e8cc2884c2fa5fd093d5fb7f3fafa373ddc90c0a58a3398b6873566ad"
+    },
+    {
+      "path": "_system/Dashboards/研究工作台.base",
+      "source_blob": "37f11630e0dbc5c1c544f12c199a677ba8781bcb",
+      "sha256": "f0a4339a6912be0e8f0fd9a44c4b1633cd85c010488fb612c8064fccd72f105c"
+    },
+    {
+      "path": "_system/Guides/AI论文阅读工作流.md",
+      "source_blob": "ecc5f9c31c5d8700aaf425d0441fa9fac53b625b",
+      "sha256": "7d4da36e799c61173892d8e77901e607d2b26c198cc2daa2905404b0785dfadb"
+    },
+    {
+      "path": "_system/Guides/Vault使用说明.md",
+      "source_blob": "8747564a81a4a7b0b0fafec4a7da680448f8fc9b",
+      "sha256": "9c4629cb18cc04f17d6a210bf8e59d11897652e9de9b20d3976a3ac61beffebb"
+    },
+    {
+      "path": "_system/Schemas/Properties规范.md",
+      "source_blob": "331cede5629aa0bed251f5567c1644d16fa81012",
+      "sha256": "da2d79197415404cb56a62ec300d9bf7bc48118c057a03126eb416c707864ae0"
+    },
+    {
+      "path": "_templates/HTML资料索引模板.md",
+      "source_blob": "54b81287ef4b1776b947c8a7abb3017a5e51bb22",
+      "sha256": "4738135083c4f9244dc766e3efd52fe491ae0d5d48ec139bdce8425b6e1326b1"
+    },
+    {
+      "path": "_templates/周复盘模板.md",
+      "source_blob": "4653dcab2550c7be3b056fca63b0f2f1db6837f8",
+      "sha256": "daa4f3936cb888bdf9271ae88dd2ca77056879bd9fbe306ad456d74d21f7e490"
+    },
+    {
+      "path": "_templates/实验记录模板.md",
+      "source_blob": "1c93b61210d20bcd957b087df62636aafc1b49cb",
+      "sha256": "e854a269eea4ca868dc019544ed2a921bd0b743299bac3c892eaadde7770dcf0"
+    },
+    {
+      "path": "_templates/数据集模板.md",
+      "source_blob": "8bba7893321a9977adf1e54af61887d9cfdeda4d",
+      "sha256": "5c193d2555e77586020996ec51857f8ebfb3c92b95af934fdc2bb7aa3899327b"
+    },
+    {
+      "path": "_templates/文献笔记模板.md",
+      "source_blob": "99675fd69f8ac67aed85e3d51dbb0319c07a1a94",
+      "sha256": "0a14eab2f548cea91fd38949e33ee668c9966e6e9b3fc94b5abe1f16469142e0"
+    },
+    {
+      "path": "_templates/概念卡片模板.md",
+      "source_blob": "68f78ab031b8295f69d146d6a2544d4d0c048fea",
+      "sha256": "e548c6679a92ad87023b358844256e672f642225b9dbeddd5e32c13ea6e099b9"
+    },
+    {
+      "path": "_templates/研究方法模板.md",
+      "source_blob": "692c63f7f9ef77b6cd2834ba3787b836548105fe",
+      "sha256": "79a94dcdc02bc6490b8b08613439d39bcacef580278504a36768041c197ce442"
+    },
+    {
+      "path": "_templates/项目模板.md",
+      "source_blob": "6d51e8cb792cfa04b1611647f738ab80a11638b1",
+      "sha256": "264155fd510a3c891c2cceb1e2688af4f18c53296f5c8f416408e2022905ad21"
+    },
+    {
+      "path": "首页.md",
+      "source_blob": "2730b5933d1025a4152480903f47b994d346fc96",
+      "sha256": "3c64ac6c3b353686353b6c3c7b37155a4c0d61fc0479b205de081aa4dc156fd0"
+    }
+  ],
+  "reset_or_generated": [
+    "README.md",
+    "NOTICE.md",
+    ".gitignore",
+    "requirements-dev.txt",
+    ".claudian/claudian-settings.json",
+    ".obsidian/community-plugins.json",
+    "_system/AI-Harness/个人协作档案.md",
+    "_system/AI-Harness/quality/LESSONS.md",
+    "_system/AI-Harness/memory/*.jsonl",
+    "empty directory placeholders"
+  ],
+  "excluded": [
+    "source Git history",
+    "personal notes and study material",
+    "source personal profile",
+    "memory log contents",
+    "completed tasks",
+    "plugin binaries",
+    "source .claudian settings",
+    "device paths and credentials",
+    "all uncommitted local changes"
+  ]
+}

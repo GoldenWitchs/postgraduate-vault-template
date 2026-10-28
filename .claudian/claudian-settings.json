@@ -1,0 +1,13 @@
+{
+  "permissionMode": "normal",
+  "savedProviderPermissionMode": {
+    "codex": "normal"
+  },
+  "providerConfigs": {
+    "codex": {
+      "safeMode": "workspace-write"
+    }
+  },
+  "persistentExternalContextPaths": [],
+  "systemPrompt": "先读 AGENTS.md 与 _system/AI-Harness/INDEX.md，按任务需要读取相关规则与笔记，不全库加载。AI 产物先存草稿，事实保留出处，个人判断由用户确认。数学公式使用 $...$ 与独占一行的 $$...$$，不用 \\(...\\) 或 \\[...\\]，矩阵换行使用 \\\\。模型、账号和 CLI 路径由当前使用者自行配置。"
+}

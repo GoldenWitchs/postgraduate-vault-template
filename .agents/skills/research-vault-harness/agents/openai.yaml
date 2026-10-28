@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Vault Harness"
+  short_description: "Scoped research retrieval, artifacts, memory, and verification"
+  default_prompt: "Use $research-vault-harness to complete this Vault research task with scoped retrieval and verification."

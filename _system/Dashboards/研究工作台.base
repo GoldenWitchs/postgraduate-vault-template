@@ -1,0 +1,82 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.path != "_templates"
+properties:
+  file.name:
+    displayName: 名称
+  type:
+    displayName: 类型
+  status:
+    displayName: 状态
+  topics:
+    displayName: 主题
+  projects:
+    displayName: 项目
+  citekey:
+    displayName: 引用键
+  evidence_checked:
+    displayName: 已核验证据
+  file.mtime:
+    displayName: 最近修改
+views:
+  - type: table
+    name: 文献
+    filters:
+      and:
+        - type == "literature"
+    order:
+      - file.name
+      - status
+      - citekey
+      - topics
+      - projects
+      - evidence_checked
+      - file.mtime
+  - type: table
+    name: 活跃项目
+    filters:
+      and:
+        - type == "project"
+        - status == "active"
+    order:
+      - file.name
+      - status
+      - area
+      - due
+      - file.mtime
+  - type: table
+    name: 实验
+    filters:
+      and:
+        - type == "experiment"
+    order:
+      - file.name
+      - status
+      - project
+      - dataset
+      - metrics
+      - file.mtime
+  - type: table
+    name: AI 草稿
+    filters:
+      and:
+        - status == "ai-draft"
+    order:
+      - file.name
+      - type
+      - topics
+      - projects
+      - file.mtime
+  - type: table
+    name: HTML 索引
+    filters:
+      and:
+        - type == "html-source"
+    order:
+      - file.name
+      - status
+      - paired_note
+      - entry_file
+      - source_url
+      - file.mtime

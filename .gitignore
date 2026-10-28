@@ -1,0 +1,29 @@
+# Device state, sessions and credentials
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/.trash/
+.claudian/*
+!.claudian/claudian-settings.json
+.claudian/sessions/
+.codex/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.local/
+# Original course/attachment files stay out of the template
+*.pdf
+*.pptx
+*.docx
+*.zip
+*.mp3
+*.m4a
+*.wav
